@@ -5,7 +5,7 @@ Moreng é uma aplicação web que ajuda a salvar palavras que você possui dific
 
 
 ## Todo
-[] Criar dockerfile com PostgreSQL
-[] Instalar GIN e GORM
-[] Criar tabelas e relacionamentos no banco
+- [ ] Criar dockerfile com PostgreSQL
+- [ ] Instalar GIN e GORM
+- [ ] Criar tabelas e relacionamentos no banco
 
